@@ -45,7 +45,7 @@ afterEvaluate{
             release(MavenPublication) {
                 from components.release
 
-                artifactId = 'csp-android'
+                artifactId = 'csp'
                 groupId = 'com.mbp.csp'
                 version = '1.0.0'
             }
